@@ -14,6 +14,8 @@ The list is organized according to different stages in a startup's early lifecyc
 
 Entrepreneurs can leverage this list to better prepare for fundraising, understanding the key aspects that investors evaluate. Investors can use it as a comprehensive checklist for assessing potential investment opportunities.
 
+See THE LIST here: https://github.com/mayurjobanputra/Startup-Evaluation-Metrics/blob/main/THE_LIST.md
+
 ## Contribution and Acknowledgments
 
 - This list was initially generated with the assistance of a ChatGPT bot, specifically "VC Deal or No Deal | Maestrix AI," a Silicon Valley pitch simulator. 
