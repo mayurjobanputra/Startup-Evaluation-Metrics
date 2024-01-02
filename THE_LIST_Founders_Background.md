@@ -1,5 +1,7 @@
 # Understanding the Impact of a Founder's Background in Fundraising
 
+This page is an expanded explanation of the qualitative item "Founders Background" from the [main list](https://github.com/mayurjobanputra/Startup-Evaluation-Metrics/blob/main/THE_LIST.md)
+
 ## Introduction
 
 When evaluating a startup, one of the key aspects investors consider is the founder's background. This isn't just about their educational qualifications or work history, but also how they are perceived in the industry and their ability to build trust. This document explains why a founder's background can be simpler yet more impactful than you might think.
