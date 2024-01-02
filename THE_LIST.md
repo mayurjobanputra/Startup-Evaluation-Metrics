@@ -4,14 +4,14 @@
 If you are a Pre-Seed Stage startup, investors that might be interested in working with you will be looking at the list below. At this stage, the focus is often on the foundational elements of your startup, including team capabilities, initial traction, and the fundamental viability of your idea.
 
 ### Quantitative Metrics
-- **Initial Capital Raised**: Amount of funds raised from various sources. More on this [here](https://github.com/mayurjobanputra/Startup-Evaluation-Metrics/blob/main/THE_LIST_Founders_Background.md)
+- **Initial Capital Raised**: Amount of funds raised from various sources. 
 - **Burn Rate**: Rate at which the startup is spending its initial capital.
 - **Runway**: Duration the startup can operate with its current funding.
 - **Early Customer Metrics**: Number of sign-ups, pilot users, or early adopters.
 - **Product Development Milestones**: Progress in product development.
 
 ### Qualitative Metrics
-- **Founder’s Background and Expertise**: Education, work history, industry experience.
+- **Founder’s Background and Expertise**: Education, work history, industry experience. More on this [here](https://github.com/mayurjobanputra/Startup-Evaluation-Metrics/blob/main/THE_LIST_Founders_Background.md)
 - **Market Problem Identification**: Clarity in understanding the problem being solved.
 - **Solution Uniqueness**: Novelty of the solution.
 - **Founder's Passion and Commitment**: Dedication to the project.
